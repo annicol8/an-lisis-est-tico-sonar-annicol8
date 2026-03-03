@@ -501,7 +501,7 @@ pre {
     color: #555;
     font-size:1.0em;
     line-height: 1.2em; 
-    font-family: "Lucida Console", "Droid Sans Mono", "Andale Mono", "Monaco", "Consolas", "Lucida Sans Typewriter"; 
+    font-family: "Lucida Console", "Droid Sans Mono", "Andale Mono", "Monaco", "Consolas", "Lucida Sans Typewriter", monospace;
 }
 
 .topNav {
